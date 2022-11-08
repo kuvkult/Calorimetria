@@ -2,7 +2,7 @@ body{background-color: rgb(250, 248, 117); text-align: center;}
 h1{text-align: center;}
 strong{color: rgb(253, 129, 13);}
 h3{text-align: center;}
-p{text-align: center; font-size: 18px;}
+p{text-align: center; font-size: 18px; font: optional;}
 main{background-color: rgb(250, 248, 117); font-size: 18px;}
 h2 {color: rgb(228, 13, 13);}
 #Fusao{left: 50%;}
